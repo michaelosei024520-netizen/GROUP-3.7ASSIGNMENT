@@ -1,0 +1,9 @@
+		ALGORITHM FOR EMPLOYEE PAYMENT SYSTEM
+
+
+1. Start the program
+2. Store number of employees in variable
+3. Display number of employees using cout
+4. Enter and display name, employeeID and department
+5. Store employee basic salary, allowance and deductions in variables
+6. 
