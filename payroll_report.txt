@@ -1,0 +1,7 @@
+Employee ID: EMP1
+Employee Name: Michael Yeboah
+Department: Programming Department
+Gross Salary: GHS 4700.00
+Net Salary: GHS 3700.00
+Status: Ready for Payment
+-----------------------------------
